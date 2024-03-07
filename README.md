@@ -1,1 +1,2 @@
 # odin-recipes
+practical example
